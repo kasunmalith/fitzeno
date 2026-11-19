@@ -1,3 +1,5 @@
+![Fitzeno project cover](docs/readme-banner.svg)
+
 <div align="center">
   <h1>Fitzeno Club Website</h1>
   <p><strong>Fitness clubs, classes and coaching in an editorial web experience.</strong></p>
